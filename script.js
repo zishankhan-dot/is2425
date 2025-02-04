@@ -1,5 +1,5 @@
 let weight=()=>{
-   x= document.getElementById("input")
+   x= document.getElementById("input").value
    if (x>15){
     alert("OverWeight!!")
    }
